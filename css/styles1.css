@@ -1,8 +1,32 @@
 * {
   font-family: sans-serif;
+  line-height: 50%;
+  font-style: normal;
+  
 }
 
 a {
   color: rgb(56, 124, 25);
+  }
+
+li {
+  color: rgb(172, 109, 27);
+  line-height: 120%;
+  font-size: 20px;
+    /* font-weight: 600; */
 }
 
+h1, p {
+  color: rgb(100, 18, 18);
+}
+
+h1 {
+  text-align: center;
+}
+
+p {
+  font-weight: 100;
+  /* font-size: 15px; */
+}
+
+/* commented out bits: to do later. need to get to the part where we use name/class to specify styles for individual elements. */
