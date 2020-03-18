@@ -1,4 +1,4 @@
-[# _My First Webpage_](https://k8thedinosaur.github.io/my-first-webpage/)
+#[ _My First Webpage_](https://k8thedinosaur.github.io/my-first-webpage/)
 
 #### _HTML exercise for Epicodus, 3/16/20_
 
